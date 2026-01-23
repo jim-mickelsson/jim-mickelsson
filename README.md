@@ -2,15 +2,15 @@
 
 I am an IT Security Student at Yrkeshögskolan Enköping with a background in Technical Onboarding for B2B SaaS.
 
-My work included handling template logic (HTML/CSS/Mustache) and guiding enterprise clients through secure technical setups. I am now applying that operational mindset to IT Security and Data Engineering.
+My work included handling template logic (HTML/CSS/Mustache) and guiding enterprise clients through secure technical setups. I am now applying that operational mindset to IT Security and Network Engineering.
 
 ---
 
-### Featured Work: My Learning Portfolio
+### Featured Work: Networking & Security Portfolio
 
-I document my technical journey, labs, and code in my central knowledge base. This is where you will find my SQL visualizations, Cisco Packet Tracer labs, and Python automation scripts.
+I document my technical journey, labs, and code in my central knowledge base. This repository houses my ongoing enterprise simulations, including OSPF routing, Internet Edge implementation, and security hardening.
 
-[View My IT Security & Infrastructure Portfolio](https://github.com/jim-mickelsson/it-security)
+[View My Networking & Security Portfolio](https://github.com/jim-mickelsson/networking)
 
 ---
 
