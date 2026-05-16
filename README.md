@@ -6,7 +6,7 @@ Transitioning into the IT security industry and currently studying to become an 
 
 My professional background includes managing technical B2B onboarding, providing user training, and developing responsive email templates using HTML, CSS, and Mustache. I have experience in platform configuration, CRM integrations, and providing technical advice on email security (SPF, DKIM, DMARC). In these roles I actively advocated for MFA to protect Personally Identifiable Information (PII) and ensure GDPR compliance. My objective is to apply these combined skills to build secure infrastructures and maintain a high standard of data protection.
 
-I am preparing for my LIA (Lärande i arbete) internship, scheduled for the Q1 of 2027.
+LIA (Lärande i arbete): Q1 of 2027.
 
 ## Current Focus
 
