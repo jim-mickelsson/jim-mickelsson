@@ -1,28 +1,17 @@
-# Jim Mickelsson  
+## Jim Mickelsson
 
-| | |  
-| :--- | :--- |  
-| **Role** | IT Security Engineering Student at Yrkeshögskolan i Enköping |  
-| **Timeline** | Graduating June 2027 |  
-| **Availability** | Summer 2026 & LIA Placement (Jan-Jun 2027) |  
-| **Location** | Stockholm, Sweden |  
-| **Connect** | [linkedin.com/in/jimmickelsson](https://linkedin.com/in/jimmickelsson) |  
+IT security engineering student (ITS25) at Yrkeshögskolan i Enköping, Sweden.
+Looking for an LIA placement in IT and information security, January to June 2027.
 
-## Core Projects  
+I plan to use this account as a working notebook for what I build while learning: lab
+environments, hardening work, network segmentation, and infrastructure as code.
+Each repo documents how something was built, how it was verified, and what is
+still missing.
 
-| Project | Description | Stack |  
-| :--- | :--- | :--- |  
-| **[Virtualization & Automation](https://github.com/sanjarbsaraee/its25-virt-automation)** | Academic project. Co-developed an IaC solution automating the deployment and configuration of virtualized lab environments. | Proxmox, Terraform, Ansible |  
-| **Multi-Site Architecture** | Designing an automated HQ and Warehouse network topology to test virtualized routing and network segmentation. | Proxmox, Terraform, Ansible |  
+Standards and regulations are what I use to decide what actually needs protecting
+in a given solution, and to practise tying a technical choice back to a
+requirement.
 
-## Technical Stack  
+Everything here is lab scale, not production.
 
-| Domain | Core Competencies |  
-| :--- | :--- |  
-| **Infrastructure as Code** | Terraform, Ansible, Workflow Automation |  
-| **Virtualization & Network** | Proxmox, Routing, VLANs, Subnetting |  
-| **Security Architecture** | Defense in Depth, Zero Trust, Network Segmentation, Role-Based Access Control (RBAC) |  
-
-## Background  
-
-I am transitioning to IT security after working in SaaS onboarding and web design at Ungapped. Working directly with clients exposed me to their underlying IT and regulatory challenges. Seeing the constant operational demand for these solutions drove my pivot into cybersecurity. I want to design, implement, and maintain practical protections that secure business value and meet compliance requirements without disrupting workflows or frustrating users.
+linkedin.com/in/jimmickelsson
