@@ -11,8 +11,10 @@ I try to see the whole picture before I pick a solution. What is actually there,
 
 **Learning about**
 
-Linux · Proxmox · OPNsense · Terraform · Ansible · Packer  
-ISO 27001 · NIS2 · GDPR · IEC 62443
+- **Networking:** segmentation, VLANs, firewall rules, OPNsense
+- **Infrastructure:** Linux, Proxmox, Terraform, Ansible, Packer
+- **Hardening:** CIS Benchmarks, SSH, access control, logging
+- **Governance and compliance:** ISO 27001, NIS2, GDPR, IEC 62443
 
 **Contact**
 
