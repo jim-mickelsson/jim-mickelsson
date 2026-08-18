@@ -1,17 +1,19 @@
-## Jim Mickelsson
+# Jim Mickelsson
 
-IT security engineering student (ITS25) at Yrkeshögskolan i Enköping, Sweden.
-Looking for an LIA placement in IT and information security, January to June 2027.
+IT security engineering student in Stockholm. Background in SaaS onboarding and design.
 
-I plan to use this account as a working notebook for what I build while learning: lab
-environments, hardening work, network segmentation, and infrastructure as code.
-Each repo documents how something was built, how it was verified, and what is
-still missing.
+I try to see the whole picture before I pick a solution. What is actually there, what the regulations require, what can go wrong, and only then what to do about it. The coursework gives me a foundation that I build on in my own labs.
 
-Standards and regulations are what I use to decide what actually needs protecting
-in a given solution, and to practise tying a technical choice back to a
-requirement.
+**Right now**
 
-Everything here is lab scale, not production.
+- Second year of the IT Security Engineering programme in Enköping, Sweden. Internship spring 2027.
+- Running a home lab to practise segmentation, firewall rules, virtualization, and hardening.
 
-linkedin.com/in/jimmickelsson
+**Learning about**
+
+Linux · Proxmox · OPNsense · Terraform · Ansible · Packer  
+ISO 27001 · NIS2 · GDPR · IEC 62443
+
+**Contact**
+
+[LinkedIn](https://linkedin.com/in/jimmickelsson)
