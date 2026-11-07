@@ -12,6 +12,7 @@ Right now I am learning the fundamentals: networking, Linux, virtualization, aut
 
 **Projects**
 
+- [it-sakerhet-individuella-uppgifter](https://github.com/jim-mickelsson/it-sakerhet-individuella-uppgifter): short write-ups of my individual coursework (in Swedish): risk analysis, GRC, hardening, OT, and vulnerability scanning.
 - [00-debian-baseline](https://github.com/jim-mickelsson/00-debian-baseline): started. Will build and harden a Debian VM on Proxmox with Terraform and Ansible.
 - [its25-virt-automation](https://github.com/sanjarbsaraee/its25-virt-automation): school group project (two people). A Proxmox lab driven entirely by Terraform, Ansible, Packer and cloud-init, built in five iterations. To explore a more advanced environment as beginners, we had AI generate and debug the code, scripts and documentation. We learned what each part did and presented the solution to our examiner.
 
